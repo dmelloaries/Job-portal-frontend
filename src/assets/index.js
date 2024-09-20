@@ -3,12 +3,20 @@ import check from "./check.svg";
 import brainwaveSymbol from "./brainwave-symbol.svg";
 import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
 import play from "./play.svg";
-import gradient from "./gradient.png";
-import smallSphere from "./4-small.png";
+import gradient from "./gradient.png"
+//import smallSphere from "./4-small.png";
 import grid from "./grid.png";
 import check2 from "./check-02.svg";
 import loading1 from "./loading-01.svg";
-import yourlogo from "./yourlogo.svg";
+import yourlogo from "./yourlogo.png";
+
+import nvdia from "../companies/nvdia.png";
+import adobe from "../companies/adobe.png";
+import netflix from "../companies/netflix.png";
+import flipkart from "../companies/flipkart.png";
+import jio from "../companies/jio.png";
+
+import amazon from "../companies/amazon.png";
 import homeSmile from "./home-smile.svg";
 import file02 from "./file-02.svg";
 import searchMd from "./search-md.svg";
@@ -84,9 +92,14 @@ export {
   brainwaveWhiteSymbol,
   play,
   gradient,
-  smallSphere,
+  //smallSphere,
   grid,
   yourlogo,
+  jio,
+  flipkart,
+  netflix,
+  adobe,
+  nvdia,
   homeSmile,
   file02,
   searchMd,
@@ -144,4 +157,5 @@ export {
   instagram,
   telegram,
   twitter,
+  amazon
 };

@@ -420,7 +420,12 @@ import {
   telegram,
   twitter,
   yourlogo,
+  amazon
 } from "../../public/assets";
+
+
+import amazon from "
+//import {yourimage} from "../../publi"
 
 export const navigation = [
   {
@@ -461,7 +466,7 @@ export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
 
 export const notificationImages = [notification4, notification3, notification2];
 
-export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
+export const companyLogos = [yourlogo, amazon, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
   "Photo generating",

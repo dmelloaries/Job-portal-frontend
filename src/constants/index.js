@@ -7,6 +7,7 @@ import {
   chromecast,
   disc02,
   discord,
+  netflix,
   discordBlack,
   facebook,
   figma,
@@ -34,7 +35,13 @@ import {
   telegram,
   twitter,
   yourlogo,
+  jio,
+  flipkart,
+  nvdia,
+  amazon,
 } from "../assets";
+
+//import amazon from "../companies/amazon";
 
 export const navigation = [
   {
@@ -75,7 +82,7 @@ export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
 
 export const notificationImages = [notification4, notification3, notification2];
 
-export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
+export const companyLogos = [yourlogo, nvdia,jio, amazon, flipkart, netflix];
 
 export const brainwaveServices = [
   "Photo generating",

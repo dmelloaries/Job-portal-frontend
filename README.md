@@ -635,7 +635,7 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Ask anything",
+    title: "Salary estimation based on resume",
     text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
     backgroundUrl: "assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
@@ -643,7 +643,7 @@ export const benefits = [
   },
   {
     id: "1",
-    title: "Improve everyday",
+    title: "Personalised jobs for You with AI",
     text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
     backgroundUrl: "assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
@@ -652,7 +652,7 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Connect everywhere",
+    title: "Schedule Interviews ",
     text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
     backgroundUrl: "assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
@@ -660,7 +660,7 @@ export const benefits = [
   },
   {
     id: "3",
-    title: "Fast responding",
+    title: "AI Applicant Filter for recruiters",
     text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
     backgroundUrl: "assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
@@ -669,7 +669,7 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Ask anything",
+    title: "Chat directly with Applicant ",
     text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
     backgroundUrl: "assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
@@ -677,7 +677,7 @@ export const benefits = [
   },
   {
     id: "5",
-    title: "Improve everyday",
+    title: "Job Alerts",
     text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
     backgroundUrl: "assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
